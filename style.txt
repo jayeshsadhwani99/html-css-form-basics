@@ -1,0 +1,9 @@
+How do we connect HTML and CSS
+1. Inline CSS
+2. By using style tags
+3. External Stylesheet (CSS files)
+
+
+Steps to color a wall:
+1. Select the wall
+2. Color the wall (style)

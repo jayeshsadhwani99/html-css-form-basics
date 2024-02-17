@@ -1,0 +1,28 @@
+/* External stylesheet */
+
+input {
+  padding: 1rem;
+  border-radius: 10px;
+  border: none;
+}
+
+div {
+  margin: 1rem;
+}
+
+input[name="email"] {
+  padding: 0;
+}
+
+#name {
+  background-color: red;
+}
+
+.form-element {
+  background-color: aqua;
+}
+
+/* 10mm = 1cm */
+/* 100cm = 1m */
+
+/* 16px = 1rem / 1em */
